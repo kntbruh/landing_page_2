@@ -1,0 +1,254 @@
+* {
+    font-family: 'Lexend', sans-serif;
+    transition: all ease 1s;
+}
+
+body {
+    /* background-color: #F2F2F2 !important; */
+    font-family: 'Lexend';
+}
+
+.bg {
+    background-image: url(../images/bg.png);
+    background-size: cover;
+    width: 100%;
+    height: 769px;
+}
+
+.logo {
+    width: 101.62px;
+    height: 23px;
+    display: block;
+    margin: 10px 525px;
+}
+
+header h1 {
+    color: #F2F2F2;
+}
+
+header p {
+    color: #F2F2F2;
+}
+
+header h1 {
+    padding-top: 390px;
+}
+
+.navbar img {
+    margin: 30px 0;
+}
+
+.nav-text {
+    font-size: 25px;
+}
+
+.nav-text li {
+    margin-left: 30px;
+}
+
+.nav-link:hover {
+    color: #00A4E5;
+}
+
+.menu {
+    border-bottom: 1px solid #48555B;
+}
+
+/* ------------body-text */
+.body-text h1 {
+    margin-top: 150px;
+    color: #48555B;
+}
+
+.body-text .line {
+    margin-top: 20px;
+    margin-left: 580px;
+    width: 150px;
+    border-top: 6px solid #32a1ce;
+}
+
+.body-text .col-6 h1 {
+    font-size: 30px;
+}
+
+.body-text .col-6 span {
+    color: #00A4E5;
+}
+
+.body-text .col-6 p {
+    margin-top: 30px;
+    color: black;
+    font-size: 26px;
+    line-height: 1;
+}
+
+.body-text .col-2 {
+    margin-top: 170px;
+
+}
+
+.body-text .col-2 img {
+    height: 250px;
+}
+
+/* --------------CAPABILITIES */
+.capability {
+    margin: 150px 0 0 0;
+}
+
+.capability h1 {
+    font-size: 30px;
+    color: #48555B;
+}
+
+.capability .line {
+    margin-top: 15px;
+
+    width: 80px;
+    border-top: 6px solid #32a1ce;
+}
+
+.capability .col-6 p {
+    color: #48555B;
+}
+
+.capability .col-2 button {
+    border-radius: 0;
+    color: #F2F2F2;
+    background-color: #00A4E5;
+    width: 200px;
+    height: 50px;
+    border: none;
+}
+
+.capability .col-2 button:hover {
+    border-radius: 0;
+    color: #F2F2F2;
+    background-color: #196786;
+
+}
+
+/* -------tables/ */
+.tables {
+    margin: 160px 0;
+
+}
+
+.tables .col-4 {
+    width: 340px;
+    height: 400px;
+    border: 4px solid #E6E6E6;
+    margin: 0 46px;
+}
+
+
+.tables .col-4 img {
+    margin: 30px 0 0 20px;
+}
+
+.tables h3 {
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+
+.tables p {
+    color: #48555B;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* ---------footer photo--- */
+.photo {
+    background-image: url(../images/get-in-touch.png);
+    background-size: cover;
+    width: 100%;
+    height: 769px;
+}
+
+.bg-footer h1 {
+    margin-top: 250px;
+    color: #48555B;
+}
+
+.bg-footer button {
+    margin: 40px 0;
+    border-radius: 0;
+    color: #F2F2F2;
+    background-color: #00A4E5;
+    width: 200px;
+    height: 50px;
+    border: none;
+}
+
+/* -----pre-foooter */
+.pre-footer {
+    height: 120px;
+    background-color: #171819;
+}
+
+.pre-footer .col-6 {
+    margin: 40px 0;
+}
+
+.pre-footer .col-6 h1 {
+    color: #F2F2F2;
+    font-size: 35px;
+}
+
+.form-inline input {
+    width: 300px;
+    height: 50px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.form-inline button {
+    border-radius: 0;
+    color: #F2F2F2;
+    background-color: #00A4E5;
+    width: 200px;
+    height: 50px;
+    border: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* --------footer  */
+footer {
+    background-color: #141A20;
+    height: 250px;
+}
+
+footer .col-3 {
+    margin: 20px 0 0 0;
+    color: #F2F2F2;
+}
+
+footer .col-3 h4 {
+    margin: 15px 0;
+}
+
+footer .col-3 img {
+    width: 200px;
+}
+
+
+footer .col-3 p {
+    margin: 20px 0 0 0;
+    font-size: 15px;
+}
+
+footer .col-1 {
+    margin: 20px 30px;
+}
+
+footer ul li {
+    list-style-type: none;
+    color: #F2F2F2;
+    line-height: 2.3;
+}
+
+footer .socia img {
+    margin-top: 30px;
+    width: 150px;
+}
